@@ -21,7 +21,7 @@ This interactive **Pizza Sales Dashboard** provides insights into pizza sales tr
 ![Pizza Sales Dashboard](Pizza_Sales_Dashboard.png)  
 
 ## 🔗 View Interactive Dashboard  
-[Click here to view on Tableau Public]([https://public.tableau.com/views/your-dashboard-name](https://public.tableau.com/views/PizzaSalesDashboard_17417628681100/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+[Click here to view on Tableau Public](https://public.tableau.com/views/PizzaSalesDashboard_17417628681100/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ## 📂 How to Use  
 1. Open the Tableau Public link above.  
@@ -29,8 +29,7 @@ This interactive **Pizza Sales Dashboard** provides insights into pizza sales tr
 3. Gain insights into pizza sales performance and trends.  
 
 ## 📌 Technologies Used  
-- **Data Visualization:** Tableau  
-- **Data Source:** [Specify Dataset or Source]  
-- **File Format:** CSV  
+- **Data Visualization:** Tableau
+- **Data Analysis:** SQL
 
 📢 *Feel free to fork this repository and explore the dataset!* 🚀  
